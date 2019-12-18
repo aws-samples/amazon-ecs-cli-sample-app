@@ -1,12 +1,8 @@
-## My Project
+## ECS CLI V2 Sample App
 
-TODO: Fill this README out!
+The ECS CLI is a tool for developers to create, release and manage production ready containerized applications on ECS. From getting started, pushing to staging and releasing to production, the ECS CLI can help manage the entire lifecycle of your application development.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
+This is a small sample app that can be used to demonstrate the ECS CLI V2. It creates a static website using nginx as the frontend. 
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
